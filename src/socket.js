@@ -4,9 +4,9 @@ export async function initSocket(){
     const option={
         'force new connection':true,
         recoonectionAttempt:Infinity,
-        'timeout':10000,
+        'timeout':300000,
         'transports':['websocket']
     }
 
-    return io("https://code-sync-backend-7tsa.onrender.com", option);
+    return io("http://localhost:8000", option);
 }
