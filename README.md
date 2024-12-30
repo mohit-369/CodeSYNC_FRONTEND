@@ -32,4 +32,4 @@ Visit the live application: [Code Sync](https://codeinit.netlify.app)
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/CodeSYNC_FRONTEND.git
+   git clone https://github.com/mohit-369/CodeSYNC_FRONTEND.git
